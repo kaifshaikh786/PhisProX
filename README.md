@@ -174,8 +174,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Kaif Shaikh**
 - LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [Kaifshaikh786](https://github.com/kaifshaikh786)
+- Email: kaif80188@gmail.com
 
 ---
 
