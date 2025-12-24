@@ -1,5 +1,5 @@
 cat > README.md << 'EOF'
-# 🛡️ PhisPox - Advanced Email Phishing Detection Suite
+# 🛡️ PhisProx - Advanced Email Phishing Detection Suite
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -7,7 +7,7 @@ cat > README.md << 'EOF'
 
 **PhisPox** is a comprehensive email security tool designed to detect and analyze phishing attempts in real-time. Built for cybersecurity professionals, IT administrators, and security-conscious users.
 
-**Created by:** [Kaif Shaikh](https://linkedin.com/in/YOUR_LINKEDIN)
+**Created by:** [Kaif Shaikh](https://www.linkedin.com/in/mohammad-kaif-ismail-shaikh-777824312/)
 
 ---
 
@@ -71,14 +71,14 @@ pip install -r requirements.txt
 ### Basic Usage
 ```bash
 # Analyze a single email file
-python3 phispox.py suspicious_email.eml
+python3 phisprox.py suspicious_email.eml
 
 # Start web dashboard
-python3 phispox.py --dashboard
+python3 phisprox.py --dashboard
 
 # Scan Gmail inbox
-python3 phispox.py --gmail-setup  # First time only
-python3 phispox.py --scan-gmail -n 50
+python3 phisprox.py --gmail-setup  # First time only
+python3 phisprox.py --scan-gmail -n 50
 ```
 
 ---
@@ -173,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Kaif Shaikh**
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- LinkedIn: https://www.linkedin.com/in/mohammad-kaif-ismail-shaikh-777824312/
 - GitHub: [Kaifshaikh786](https://github.com/kaifshaikh786)
 - Email: kaif80188@gmail.com
 
